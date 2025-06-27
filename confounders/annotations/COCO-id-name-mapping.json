@@ -1,0 +1,562 @@
+[
+    {
+        "ID": 1,
+        "OBJECT (PAPER)": "person",
+        "OBJECT (2014 REL.)": "person",
+        "OBJECT (2017 REL.)": "person",
+        "SUPER CATEGORY": "person"
+    },
+    {
+        "ID": 2,
+        "OBJECT (PAPER)": "bicycle",
+        "OBJECT (2014 REL.)": "bicycle",
+        "OBJECT (2017 REL.)": "bicycle",
+        "SUPER CATEGORY": "vehicle"
+    },
+    {
+        "ID": 3,
+        "OBJECT (PAPER)": "car",
+        "OBJECT (2014 REL.)": "car",
+        "OBJECT (2017 REL.)": "car",
+        "SUPER CATEGORY": "vehicle"
+    },
+    {
+        "ID": 4,
+        "OBJECT (PAPER)": "motorcycle",
+        "OBJECT (2014 REL.)": "motorcycle",
+        "OBJECT (2017 REL.)": "motorcycle",
+        "SUPER CATEGORY": "vehicle"
+    },
+    {
+        "ID": 5,
+        "OBJECT (PAPER)": "airplane",
+        "OBJECT (2014 REL.)": "airplane",
+        "OBJECT (2017 REL.)": "airplane",
+        "SUPER CATEGORY": "vehicle"
+    },
+    {
+        "ID": 6,
+        "OBJECT (PAPER)": "bus",
+        "OBJECT (2014 REL.)": "bus",
+        "OBJECT (2017 REL.)": "bus",
+        "SUPER CATEGORY": "vehicle"
+    },
+    {
+        "ID": 7,
+        "OBJECT (PAPER)": "train",
+        "OBJECT (2014 REL.)": "train",
+        "OBJECT (2017 REL.)": "train",
+        "SUPER CATEGORY": "vehicle"
+    },
+    {
+        "ID": 8,
+        "OBJECT (PAPER)": "truck",
+        "OBJECT (2014 REL.)": "truck",
+        "OBJECT (2017 REL.)": "truck",
+        "SUPER CATEGORY": "vehicle"
+    },
+    {
+        "ID": 9,
+        "OBJECT (PAPER)": "boat",
+        "OBJECT (2014 REL.)": "boat",
+        "OBJECT (2017 REL.)": "boat",
+        "SUPER CATEGORY": "vehicle"
+    },
+    {
+        "ID": 10,
+        "OBJECT (PAPER)": "traffic light",
+        "OBJECT (2014 REL.)": "traffic light",
+        "OBJECT (2017 REL.)": "traffic light",
+        "SUPER CATEGORY": "outdoor"
+    },
+    {
+        "ID": 11,
+        "OBJECT (PAPER)": "fire hydrant",
+        "OBJECT (2014 REL.)": "fire hydrant",
+        "OBJECT (2017 REL.)": "fire hydrant",
+        "SUPER CATEGORY": "outdoor"
+    },
+    {
+        "ID": 13,
+        "OBJECT (PAPER)": "stop sign",
+        "OBJECT (2014 REL.)": "stop sign",
+        "OBJECT (2017 REL.)": "stop sign",
+        "SUPER CATEGORY": "outdoor"
+    },
+    {
+        "ID": 14,
+        "OBJECT (PAPER)": "parking meter",
+        "OBJECT (2014 REL.)": "parking meter",
+        "OBJECT (2017 REL.)": "parking meter",
+        "SUPER CATEGORY": "outdoor"
+    },
+    {
+        "ID": 15,
+        "OBJECT (PAPER)": "bench",
+        "OBJECT (2014 REL.)": "bench",
+        "OBJECT (2017 REL.)": "bench",
+        "SUPER CATEGORY": "outdoor"
+    },
+    {
+        "ID": 16,
+        "OBJECT (PAPER)": "bird",
+        "OBJECT (2014 REL.)": "bird",
+        "OBJECT (2017 REL.)": "bird",
+        "SUPER CATEGORY": "animal"
+    },
+    {
+        "ID": 17,
+        "OBJECT (PAPER)": "cat",
+        "OBJECT (2014 REL.)": "cat",
+        "OBJECT (2017 REL.)": "cat",
+        "SUPER CATEGORY": "animal"
+    },
+    {
+        "ID": 18,
+        "OBJECT (PAPER)": "dog",
+        "OBJECT (2014 REL.)": "dog",
+        "OBJECT (2017 REL.)": "dog",
+        "SUPER CATEGORY": "animal"
+    },
+    {
+        "ID": 19,
+        "OBJECT (PAPER)": "horse",
+        "OBJECT (2014 REL.)": "horse",
+        "OBJECT (2017 REL.)": "horse",
+        "SUPER CATEGORY": "animal"
+    },
+    {
+        "ID": 20,
+        "OBJECT (PAPER)": "sheep",
+        "OBJECT (2014 REL.)": "sheep",
+        "OBJECT (2017 REL.)": "sheep",
+        "SUPER CATEGORY": "animal"
+    },
+    {
+        "ID": 21,
+        "OBJECT (PAPER)": "cow",
+        "OBJECT (2014 REL.)": "cow",
+        "OBJECT (2017 REL.)": "cow",
+        "SUPER CATEGORY": "animal"
+    },
+    {
+        "ID": 22,
+        "OBJECT (PAPER)": "elephant",
+        "OBJECT (2014 REL.)": "elephant",
+        "OBJECT (2017 REL.)": "elephant",
+        "SUPER CATEGORY": "animal"
+    },
+    {
+        "ID": 23,
+        "OBJECT (PAPER)": "bear",
+        "OBJECT (2014 REL.)": "bear",
+        "OBJECT (2017 REL.)": "bear",
+        "SUPER CATEGORY": "animal"
+    },
+    {
+        "ID": 24,
+        "OBJECT (PAPER)": "zebra",
+        "OBJECT (2014 REL.)": "zebra",
+        "OBJECT (2017 REL.)": "zebra",
+        "SUPER CATEGORY": "animal"
+    },
+    {
+        "ID": 25,
+        "OBJECT (PAPER)": "giraffe",
+        "OBJECT (2014 REL.)": "giraffe",
+        "OBJECT (2017 REL.)": "giraffe",
+        "SUPER CATEGORY": "animal"
+    },
+    {
+        "ID": 27,
+        "OBJECT (PAPER)": "backpack",
+        "OBJECT (2014 REL.)": "backpack",
+        "OBJECT (2017 REL.)": "backpack",
+        "SUPER CATEGORY": "accessory"
+    },
+    {
+        "ID": 28,
+        "OBJECT (PAPER)": "umbrella",
+        "OBJECT (2014 REL.)": "umbrella",
+        "OBJECT (2017 REL.)": "umbrella",
+        "SUPER CATEGORY": "accessory"
+    },
+    {
+        "ID": 31,
+        "OBJECT (PAPER)": "handbag",
+        "OBJECT (2014 REL.)": "handbag",
+        "OBJECT (2017 REL.)": "handbag",
+        "SUPER CATEGORY": "accessory"
+    },
+    {
+        "ID": 32,
+        "OBJECT (PAPER)": "tie",
+        "OBJECT (2014 REL.)": "tie",
+        "OBJECT (2017 REL.)": "tie",
+        "SUPER CATEGORY": "accessory"
+    },
+    {
+        "ID": 33,
+        "OBJECT (PAPER)": "suitcase",
+        "OBJECT (2014 REL.)": "suitcase",
+        "OBJECT (2017 REL.)": "suitcase",
+        "SUPER CATEGORY": "accessory"
+    },
+    {
+        "ID": 34,
+        "OBJECT (PAPER)": "frisbee",
+        "OBJECT (2014 REL.)": "frisbee",
+        "OBJECT (2017 REL.)": "frisbee",
+        "SUPER CATEGORY": "sports"
+    },
+    {
+        "ID": 35,
+        "OBJECT (PAPER)": "skis",
+        "OBJECT (2014 REL.)": "skis",
+        "OBJECT (2017 REL.)": "skis",
+        "SUPER CATEGORY": "sports"
+    },
+    {
+        "ID": 36,
+        "OBJECT (PAPER)": "snowboard",
+        "OBJECT (2014 REL.)": "snowboard",
+        "OBJECT (2017 REL.)": "snowboard",
+        "SUPER CATEGORY": "sports"
+    },
+    {
+        "ID": 37,
+        "OBJECT (PAPER)": "sports ball",
+        "OBJECT (2014 REL.)": "sports ball",
+        "OBJECT (2017 REL.)": "sports ball",
+        "SUPER CATEGORY": "sports"
+    },
+    {
+        "ID": 38,
+        "OBJECT (PAPER)": "kite",
+        "OBJECT (2014 REL.)": "kite",
+        "OBJECT (2017 REL.)": "kite",
+        "SUPER CATEGORY": "sports"
+    },
+    {
+        "ID": 39,
+        "OBJECT (PAPER)": "baseball bat",
+        "OBJECT (2014 REL.)": "baseball bat",
+        "OBJECT (2017 REL.)": "baseball bat",
+        "SUPER CATEGORY": "sports"
+    },
+    {
+        "ID": 40,
+        "OBJECT (PAPER)": "baseball glove",
+        "OBJECT (2014 REL.)": "baseball glove",
+        "OBJECT (2017 REL.)": "baseball glove",
+        "SUPER CATEGORY": "sports"
+    },
+    {
+        "ID": 41,
+        "OBJECT (PAPER)": "skateboard",
+        "OBJECT (2014 REL.)": "skateboard",
+        "OBJECT (2017 REL.)": "skateboard",
+        "SUPER CATEGORY": "sports"
+    },
+    {
+        "ID": 42,
+        "OBJECT (PAPER)": "surfboard",
+        "OBJECT (2014 REL.)": "surfboard",
+        "OBJECT (2017 REL.)": "surfboard",
+        "SUPER CATEGORY": "sports"
+    },
+    {
+        "ID": 43,
+        "OBJECT (PAPER)": "tennis racket",
+        "OBJECT (2014 REL.)": "tennis racket",
+        "OBJECT (2017 REL.)": "tennis racket",
+        "SUPER CATEGORY": "sports"
+    },
+    {
+        "ID": 44,
+        "OBJECT (PAPER)": "bottle",
+        "OBJECT (2014 REL.)": "bottle",
+        "OBJECT (2017 REL.)": "bottle",
+        "SUPER CATEGORY": "kitchen"
+    },
+    {
+        "ID": 46,
+        "OBJECT (PAPER)": "wine glass",
+        "OBJECT (2014 REL.)": "wine glass",
+        "OBJECT (2017 REL.)": "wine glass",
+        "SUPER CATEGORY": "kitchen"
+    },
+    {
+        "ID": 47,
+        "OBJECT (PAPER)": "cup",
+        "OBJECT (2014 REL.)": "cup",
+        "OBJECT (2017 REL.)": "cup",
+        "SUPER CATEGORY": "kitchen"
+    },
+    {
+        "ID": 48,
+        "OBJECT (PAPER)": "fork",
+        "OBJECT (2014 REL.)": "fork",
+        "OBJECT (2017 REL.)": "fork",
+        "SUPER CATEGORY": "kitchen"
+    },
+    {
+        "ID": 49,
+        "OBJECT (PAPER)": "knife",
+        "OBJECT (2014 REL.)": "knife",
+        "OBJECT (2017 REL.)": "knife",
+        "SUPER CATEGORY": "kitchen"
+    },
+    {
+        "ID": 50,
+        "OBJECT (PAPER)": "spoon",
+        "OBJECT (2014 REL.)": "spoon",
+        "OBJECT (2017 REL.)": "spoon",
+        "SUPER CATEGORY": "kitchen"
+    },
+    {
+        "ID": 51,
+        "OBJECT (PAPER)": "bowl",
+        "OBJECT (2014 REL.)": "bowl",
+        "OBJECT (2017 REL.)": "bowl",
+        "SUPER CATEGORY": "kitchen"
+    },
+    {
+        "ID": 52,
+        "OBJECT (PAPER)": "banana",
+        "OBJECT (2014 REL.)": "banana",
+        "OBJECT (2017 REL.)": "banana",
+        "SUPER CATEGORY": "food"
+    },
+    {
+        "ID": 53,
+        "OBJECT (PAPER)": "apple",
+        "OBJECT (2014 REL.)": "apple",
+        "OBJECT (2017 REL.)": "apple",
+        "SUPER CATEGORY": "food"
+    },
+    {
+        "ID": 54,
+        "OBJECT (PAPER)": "sandwich",
+        "OBJECT (2014 REL.)": "sandwich",
+        "OBJECT (2017 REL.)": "sandwich",
+        "SUPER CATEGORY": "food"
+    },
+    {
+        "ID": 55,
+        "OBJECT (PAPER)": "orange",
+        "OBJECT (2014 REL.)": "orange",
+        "OBJECT (2017 REL.)": "orange",
+        "SUPER CATEGORY": "food"
+    },
+    {
+        "ID": 56,
+        "OBJECT (PAPER)": "broccoli",
+        "OBJECT (2014 REL.)": "broccoli",
+        "OBJECT (2017 REL.)": "broccoli",
+        "SUPER CATEGORY": "food"
+    },
+    {
+        "ID": 57,
+        "OBJECT (PAPER)": "carrot",
+        "OBJECT (2014 REL.)": "carrot",
+        "OBJECT (2017 REL.)": "carrot",
+        "SUPER CATEGORY": "food"
+    },
+    {
+        "ID": 58,
+        "OBJECT (PAPER)": "hot dog",
+        "OBJECT (2014 REL.)": "hot dog",
+        "OBJECT (2017 REL.)": "hot dog",
+        "SUPER CATEGORY": "food"
+    },
+    {
+        "ID": 59,
+        "OBJECT (PAPER)": "pizza",
+        "OBJECT (2014 REL.)": "pizza",
+        "OBJECT (2017 REL.)": "pizza",
+        "SUPER CATEGORY": "food"
+    },
+    {
+        "ID": 60,
+        "OBJECT (PAPER)": "donut",
+        "OBJECT (2014 REL.)": "donut",
+        "OBJECT (2017 REL.)": "donut",
+        "SUPER CATEGORY": "food"
+    },
+    {
+        "ID": 61,
+        "OBJECT (PAPER)": "cake",
+        "OBJECT (2014 REL.)": "cake",
+        "OBJECT (2017 REL.)": "cake",
+        "SUPER CATEGORY": "food"
+    },
+    {
+        "ID": 62,
+        "OBJECT (PAPER)": "chair",
+        "OBJECT (2014 REL.)": "chair",
+        "OBJECT (2017 REL.)": "chair",
+        "SUPER CATEGORY": "furniture"
+    },
+    {
+        "ID": 63,
+        "OBJECT (PAPER)": "couch",
+        "OBJECT (2014 REL.)": "couch",
+        "OBJECT (2017 REL.)": "couch",
+        "SUPER CATEGORY": "furniture"
+    },
+    {
+        "ID": 64,
+        "OBJECT (PAPER)": "potted plant",
+        "OBJECT (2014 REL.)": "potted plant",
+        "OBJECT (2017 REL.)": "potted plant",
+        "SUPER CATEGORY": "furniture"
+    },
+    {
+        "ID": 65,
+        "OBJECT (PAPER)": "bed",
+        "OBJECT (2014 REL.)": "bed",
+        "OBJECT (2017 REL.)": "bed",
+        "SUPER CATEGORY": "furniture"
+    },
+    {
+        "ID": 67,
+        "OBJECT (PAPER)": "dining table",
+        "OBJECT (2014 REL.)": "dining table",
+        "OBJECT (2017 REL.)": "dining table",
+        "SUPER CATEGORY": "furniture"
+    },
+    {
+        "ID": 70,
+        "OBJECT (PAPER)": "toilet",
+        "OBJECT (2014 REL.)": "toilet",
+        "OBJECT (2017 REL.)": "toilet",
+        "SUPER CATEGORY": "furniture"
+    },
+    {
+        "ID": 72,
+        "OBJECT (PAPER)": "TV",
+        "OBJECT (2014 REL.)": "tv",
+        "OBJECT (2017 REL.)": "tv",
+        "SUPER CATEGORY": "electronic"
+    },
+    {
+        "ID": 73,
+        "OBJECT (PAPER)": "laptop",
+        "OBJECT (2014 REL.)": "laptop",
+        "OBJECT (2017 REL.)": "laptop",
+        "SUPER CATEGORY": "electronic"
+    },
+    {
+        "ID": 74,
+        "OBJECT (PAPER)": "mouse",
+        "OBJECT (2014 REL.)": "mouse",
+        "OBJECT (2017 REL.)": "mouse",
+        "SUPER CATEGORY": "electronic"
+    },
+    {
+        "ID": 75,
+        "OBJECT (PAPER)": "remote",
+        "OBJECT (2014 REL.)": "remote",
+        "OBJECT (2017 REL.)": "remote",
+        "SUPER CATEGORY": "electronic"
+    },
+    {
+        "ID": 76,
+        "OBJECT (PAPER)": "keyboard",
+        "OBJECT (2014 REL.)": "keyboard",
+        "OBJECT (2017 REL.)": "keyboard",
+        "SUPER CATEGORY": "electronic"
+    },
+    {
+        "ID": 77,
+        "OBJECT (PAPER)": "cell phone",
+        "OBJECT (2014 REL.)": "cell phone",
+        "OBJECT (2017 REL.)": "cell phone",
+        "SUPER CATEGORY": "electronic"
+    },
+    {
+        "ID": 78,
+        "OBJECT (PAPER)": "microwave",
+        "OBJECT (2014 REL.)": "microwave",
+        "OBJECT (2017 REL.)": "microwave",
+        "SUPER CATEGORY": "appliance"
+    },
+    {
+        "ID": 79,
+        "OBJECT (PAPER)": "oven",
+        "OBJECT (2014 REL.)": "oven",
+        "OBJECT (2017 REL.)": "oven",
+        "SUPER CATEGORY": "appliance"
+    },
+    {
+        "ID": 80,
+        "OBJECT (PAPER)": "toaster",
+        "OBJECT (2014 REL.)": "toaster",
+        "OBJECT (2017 REL.)": "toaster",
+        "SUPER CATEGORY": "appliance"
+    },
+    {
+        "ID": 81,
+        "OBJECT (PAPER)": "sink",
+        "OBJECT (2014 REL.)": "sink",
+        "OBJECT (2017 REL.)": "sink",
+        "SUPER CATEGORY": "appliance"
+    },
+    {
+        "ID": 82,
+        "OBJECT (PAPER)": "refrigerator",
+        "OBJECT (2014 REL.)": "refrigerator",
+        "OBJECT (2017 REL.)": "refrigerator",
+        "SUPER CATEGORY": "appliance"
+    },
+    {
+        "ID": 84,
+        "OBJECT (PAPER)": "book",
+        "OBJECT (2014 REL.)": "book",
+        "OBJECT (2017 REL.)": "book",
+        "SUPER CATEGORY": "indoor"
+    },
+    {
+        "ID": 85,
+        "OBJECT (PAPER)": "clock",
+        "OBJECT (2014 REL.)": "clock",
+        "OBJECT (2017 REL.)": "clock",
+        "SUPER CATEGORY": "indoor"
+    },
+    {
+        "ID": 86,
+        "OBJECT (PAPER)": "vase",
+        "OBJECT (2014 REL.)": "vase",
+        "OBJECT (2017 REL.)": "vase",
+        "SUPER CATEGORY": "indoor"
+    },
+    {
+        "ID": 87,
+        "OBJECT (PAPER)": "scissors",
+        "OBJECT (2014 REL.)": "scissors",
+        "OBJECT (2017 REL.)": "scissors",
+        "SUPER CATEGORY": "indoor"
+    },
+    {
+        "ID": 88,
+        "OBJECT (PAPER)": "teddy bear",
+        "OBJECT (2014 REL.)": "teddy bear",
+        "OBJECT (2017 REL.)": "teddy bear",
+        "SUPER CATEGORY": "indoor"
+    },
+    {
+        "ID": 89,
+        "OBJECT (PAPER)": "hair drier",
+        "OBJECT (2014 REL.)": "hair drier",
+        "OBJECT (2017 REL.)": "hair drier",
+        "SUPER CATEGORY": "indoor"
+    },
+    {
+        "ID": 90,
+        "OBJECT (PAPER)": "toothbrush",
+        "OBJECT (2014 REL.)": "toothbrush",
+        "OBJECT (2017 REL.)": "toothbrush",
+        "SUPER CATEGORY": "indoor"
+    }
+]
