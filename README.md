@@ -69,7 +69,7 @@ Causal-LLaVA
 ├── confounders # Estimate and save confounders for visual and text modalities
 │   ├── annotations # Sample 5k from the llava_detail_23k dataset to estimate confounders
 │   │   ├── COCO-id-name-mapping.json
-│   │   ├── detail_5k_bbox_patch_numbers.json
+│   │   ├── detail_5k_bbox_patch_numbers.json # For now, please combine the two parts in the repository manually
 │   │   ├── detail_5k_bbox_patch_numbers_v1.json
 │   │   └── detail_5k.json
 │   ├── get_projector_confounders.py # Estimate visual confounders for the projector during the pretraining phase
@@ -88,8 +88,8 @@ Causal-LLaVA
 │   └── ......
 ├── modification
 │   ├── causal-vicuna-7b-v1.5-init # convert original Vicuna to be compatible with this repository's architecture
-│   │   ├── causal-initialization.bin
-│   │   └── pytorch_model.bin.index.json
+│   │   ├── causal_bin_gen_vicuna.py # generate additional dummy weights into original vicuna directory
+│   │   └── pytorch_model.bin.index.json # to replace the original vicuna's .index.json file
 │   └── transformers # Modifications need to be made in the conda environment
 │       └── modeling_llama.py # Add causal intervention structure to the LLM Transformer
 ├── openai
@@ -158,7 +158,7 @@ pip install flash_attn-2.6.3+cu123torch2.3cxx11abiFALSE-cp310-cp310-linux_x86_64
 
 - Replace `pytorch_model.bin.index.json` in the `vicuna-7b-v1.5` directory with the one provided in `modification/causal-vicuna-7b-v1.5-init/`
 
-- Add `causal-initialization.bin` to that same directory.
+- Run `modification/causal-vicuna-7b-v1.5-init/causal_bin_gen_vicuna.py` to generate `causal-initialization.bin`, and add it to the same Vicuna directory. Then rename the modified Vicuna directory to `causal-vicuna-7b-v1.5-init`.
 
 - Replace `modeling_llama.py` in your conda env with the modified version from `modification/transformers/`.
 
