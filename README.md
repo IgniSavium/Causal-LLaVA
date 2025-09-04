@@ -2,13 +2,12 @@
 
 # Causal-LLaVA: Causal Disentanglement for Mitigating Hallucination in Multimodal Large Language Models
 
-[![Paper](https://img.shields.io/badge/arXiv.2501.xxxxx-orange)](https://arxiv.org/abs/...)
-[![License](https://img.shields.io/github/license/yourname/Causal-LLaVA)](https://github.com/yourname/Causal-LLaVA/blob/main/LICENSE)
+[![Paper](https://img.shields.io/badge/arXiv:2505.19474-orange)](https://arxiv.org/abs/2505.19474)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/IgniSavium/Causal-LLaVA/blob/main/LICENSE)
 
 This is the official repository for:
 
-> **Causal-LLaVA: Causal Disentanglement for Mitigating Hallucination in Multimodal Large Language Models**  
-> Anonymous Authors, NeurIPS 2025 Submission
+> **Causal-LLaVA: Causal Disentanglement for Mitigating Hallucination in Multimodal Large Language Models** 
 
 ---
 
